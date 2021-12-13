@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="itemTitle">Title</string>
+    <string name="add_car_btn">Add to Cart</string>
+    <string name="proImage">Product Images</string>
+    <string name="prefKey">com.myapplication.shopingmarket.PREFERENCE_FILE_KEY</string>
+
+</resources>
