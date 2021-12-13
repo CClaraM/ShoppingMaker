@@ -1,0 +1,34 @@
+com/myapplication/shopingmarket/BuildConfig.java
+ com.myapplication.shopingmarket.BuildConfig
+com/myapplication/shopingmarket/databinding/FragmentListBinding.java
+ com.myapplication.shopingmarket.databinding.FragmentListBinding
+com/myapplication/shopingmarket/databinding/DetailsFragmentBinding.java
+ com.myapplication.shopingmarket.databinding.DetailsFragmentBinding
+com/myapplication/shopingmarket/databinding/ActivityHomeBinding.java
+ com.myapplication.shopingmarket.databinding.ActivityHomeBinding
+com/myapplication/shopingmarket/databinding/RecommendItemBinding.java
+ com.myapplication.shopingmarket.databinding.RecommendItemBinding
+com/myapplication/shopingmarket/databinding/HomeItemRecycleBinding.java
+ com.myapplication.shopingmarket.databinding.HomeItemRecycleBinding
+com/myapplication/shopingmarket/databinding/ImageItemBinding.java
+ com.myapplication.shopingmarket.databinding.ImageItemBinding
+com/myapplication/shopingmarket/databinding/QuestionsItemRecycleBinding.java
+ com.myapplication.shopingmarket.databinding.QuestionsItemRecycleBinding
+com/myapplication/shopingmarket/databinding/HomeCategoryItemRecycleBinding.java
+ com.myapplication.shopingmarket.databinding.HomeCategoryItemRecycleBinding
+com/myapplication/shopingmarket/databinding/ActivityItemBinding.java
+ com.myapplication.shopingmarket.databinding.ActivityItemBinding
+com/myapplication/shopingmarket/databinding/ActivityPopupShoppingBinding.java
+ com.myapplication.shopingmarket.databinding.ActivityPopupShoppingBinding
+com/myapplication/shopingmarket/databinding/ActivityLoginBinding.java
+ com.myapplication.shopingmarket.databinding.ActivityLoginBinding
+com/myapplication/shopingmarket/databinding/LoginTabFragmentBinding.java
+ com.myapplication.shopingmarket.databinding.LoginTabFragmentBinding
+com/myapplication/shopingmarket/databinding/CarRecycleBinding.java
+ com.myapplication.shopingmarket.databinding.CarRecycleBinding
+com/myapplication/shopingmarket/databinding/ActivityShoppingBinding.java
+ com.myapplication.shopingmarket.databinding.ActivityShoppingBinding
+com/myapplication/shopingmarket/databinding/SignupTabFragmentBinding.java
+ com.myapplication.shopingmarket.databinding.SignupTabFragmentBinding
+com/myapplication/shopingmarket/databinding/RatingsRecycleBinding.java
+ com.myapplication.shopingmarket.databinding.RatingsRecycleBinding
