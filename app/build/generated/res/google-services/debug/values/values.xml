@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">355819456137-5d4q790aao5la9mimmpbbgtpnpe787ql.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">355819456137</string>
+    <string name="google_api_key" translatable="false">AIzaSyCl-YTetfZcL0wPJyUhNo7XU3M4LX17W5w</string>
+    <string name="google_app_id" translatable="false">1:355819456137:android:2d9faa9406b60a356d6858</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCl-YTetfZcL0wPJyUhNo7XU3M4LX17W5w</string>
+    <string name="google_storage_bucket" translatable="false">test-udecaldas.appspot.com</string>
+    <string name="project_id" translatable="false">test-udecaldas</string>
+</resources>
